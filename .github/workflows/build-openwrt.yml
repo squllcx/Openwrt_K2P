@@ -21,7 +21,7 @@ on:
 
 env:
   # REPO_URL: https://github.com/coolsnowwolf/lede
-  REPO_URL: https://github.com/coolsnowwolf/lede/tree/20200915
+  REPO_URL: https://github.com/MaoSuSu/lede.git
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
